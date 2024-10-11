@@ -1,0 +1,5 @@
+.venv
+.DS_Store
+plotly.ipynb
+/data_predictions/*
+/models/*
